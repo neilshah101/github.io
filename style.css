@@ -11,10 +11,17 @@ h1 {
   text-decoration: underline;
 }
 
-p, li {
+li {
+  font-size: 10px;
+  line-height: 2;
+  letter-spacing: 1px;
+  font-family: 'Roboto Slab', serif; /* this should be the rest of the output you got from Google fonts */
+}
+p {
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
+  font-family: 'Roboto Slab', serif; /* this should be the rest of the output you got from Google fonts */
 }
 body {
   width: 1000px;

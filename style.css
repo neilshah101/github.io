@@ -11,13 +11,13 @@ h1 {
 }
 
 li {
-  font-size: 10px;
+  font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
   font-family: 'Roboto Slab', serif; /* this should be the rest of the output you got from Google fonts */
 }
 p {
-  font-size: 16px;
+  font-size: 20px;
   line-height: 2;
   letter-spacing: 1px;
   font-family: 'Roboto Slab', serif; /* this should be the rest of the output you got from Google fonts */
@@ -30,12 +30,6 @@ body {
   border: 5px solid black;
 }
 
-h1 {
-  margin: 0;
-  padding: 20px 0;
-  color: #00539F;
-  text-shadow: 3px 3px 1px black;
-}
 
 h1 {
   margin: 0;
@@ -47,5 +41,5 @@ h1 {
 img {
   display: block;
   margin: 0 auto;
-  width: 600px;;
+  width: 800px;;
 }

@@ -20,7 +20,7 @@ p {
   line-height: 2;
   letter-spacing: 1px;
   font-family: 'Roboto Slab', serif; /* this should be the rest of the output you got from Google fonts */
-  text-align: right;
+  text-align: left;
 }
 body {
   width: 1000px;
